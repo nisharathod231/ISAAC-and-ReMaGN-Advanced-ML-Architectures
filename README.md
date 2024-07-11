@@ -74,9 +74,15 @@ ReMaGN uses a 3-D mesh topology and 3-D toroidal Network-on-Chip (NoC) for high-
 - `23754_Assignment_5.pdf`: The complete assignment document.
 - `question3.ipynb`: Jupyter notebook for part (a) of Question 3.
 
+## Output
+
+![image](https://github.com/pritamgouda11/ISAAC-and-ReMaGN-Advanced-ML-Architectures/assets/46958858/542d47e8-4282-49ea-8f19-beb12d8775c7)
+
+
 ## Usage
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/advanced-ml-architectures.git
    cd advanced-ml-architectures
+
