@@ -72,7 +72,7 @@ ReMaGN uses a 3-D mesh topology and 3-D toroidal Network-on-Chip (NoC) for high-
 ## Files Included
 
 - `23754_Assignment_5.pdf`: The complete assignment document.
-- `question3.ipynb`: Jupyter notebook for part (a) of Question 3.
+- `23754_Assignment_5.ipynb`: Jupyter notebook for part (a) of Question 3.
 
 ## Output
 
