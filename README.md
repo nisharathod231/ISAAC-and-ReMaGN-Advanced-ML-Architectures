@@ -1,16 +1,8 @@
 # Advanced ML Architectures: ISAAC and ReMaGN
 
-## Assignment 5 - E0294: Systems for Machine Learning
-
-**Author:** Pritam Trilochan Gouda  
-**Affiliation:** CSA, IISc  
-**Date:** April 18, 2024
+## E0294: Systems for Machine Learning
 
 ---
-
-## Overview
-
-This repository contains the solutions and discussions for Assignment 5 of the course E0294: Systems for Machine Learning. The assignment covers two advanced machine learning architectures: ISAAC and ReMaGN.
 
 ## Table of Contents
 
